@@ -11,12 +11,12 @@ const NewsLatterBox = () => {
       data-wow-delay=".2s"
     >
       <h3 className="mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
-        Subscribe to receive future updates
-      </h3>
-      <p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
-        Lorem ipsum dolor sited Sed ullam corper consectur adipiscing Mae ornare
-        massa quis lectus.
-      </p>
+  Subscribe to Receive Future Updates
+</h3>
+<p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
+  Stay informed about our latest developments, industry insights, and exclusive offers. Join our newsletter to ensure you never miss an update from us.
+</p>
+
       <div>
         <input
           type="text"

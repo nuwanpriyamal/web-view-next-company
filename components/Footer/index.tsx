@@ -30,8 +30,12 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  400 Solutions,
+                  Kirinda - Puhulwella,<br />
+                  Matara,<br />
+                  Sri Lanka,<br />
+                  81290<br />
+                  +94 71 089 1276
                 </p>
                 <div className="flex items-center">
                   <a
@@ -200,9 +204,9 @@ const Footer = () => {
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
-              Template by UIdeck and{" "}
-              <a href="https://nextjstemplates.com" rel="nofollow noopener">
-                Next.js Templates
+             Powered By{" "}
+              <a href="https://400solutions.info" rel="nofollow noopener">
+                400 Solutions.info
               </a>
             </p>
           </div>

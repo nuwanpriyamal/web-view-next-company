@@ -25,36 +25,34 @@ const AboutSectionTwo = () => {
             </div>
           </div>
           <div className="w-full px-4 lg:w-1/2">
-            <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
-              <div className="mb-9">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                </p>
-              </div>
-              <div className="mb-9">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
-                </p>
-              </div>
-              <div className="mb-1">
-                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
-                </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
-                </p>
-              </div>
-            </div>
-          </div>
+  <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
+    <div className="mb-9">
+      <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+        Bug-Free Code
+      </h3>
+      <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+        We prioritize quality assurance in our development process, ensuring that our code is thoroughly tested and optimized for performance. Our commitment to delivering bug-free solutions means your applications run smoothly and efficiently.
+      </p>
+    </div>
+    <div className="mb-9">
+      <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+        Premier Support
+      </h3>
+      <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+        Our dedicated support team is available 24/7 to assist you with any inquiries or issues. We believe in building long-term relationships, and our goal is to provide exceptional service that exceeds your expectations.
+      </p>
+    </div>
+    <div className="mb-1">
+      <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+        Expertise in Latest Technologies
+      </h3>
+      <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+        We stay at the forefront of technological advancements, utilizing the latest frameworks and tools to build robust solutions. Our team is proficient in technologies like Java, JavaScript, Python, and more, ensuring your applications are built with modern best practices.
+      </p>
+    </div>
+  </div>
+</div>
+
         </div>
       </div>
     </section>

@@ -5,11 +5,17 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Page",
+  title: "400 Solutions - Professional IT Services",
+
   description: "We are a team of experienced developers and designers who are passionate about creating innovative solutions to real-world problems.",
   openGraph: {
     images: ['/images/logo/removed_bg_logo.png'],
   },
+  icons: {
+    icon: '/images/logo/removed_bg_logo.png',
+  },
+  
+
   // other metadata
 };
 

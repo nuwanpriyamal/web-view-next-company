@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   openGraph: {
     images: ['/images/logo/removed_bg_logo.png'],
   },
+  icons: {
+    icon: '/images/logo/removed_bg_logo.png',
+  },
   // other metadata
 };
 

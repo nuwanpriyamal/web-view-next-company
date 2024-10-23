@@ -9,6 +9,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "400 Solutions - Professional IT Services",
   description: "400 Solutions: Leading provider of custom software development, web applications, and digital transformation solutions.",
+  openGraph: {
+    images: ['/images/logo/removed_bg_logo.png'],
+  },
   // other metadata
 };
 

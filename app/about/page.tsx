@@ -7,6 +7,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About Page",
   description: "We are a team of experienced developers and designers who are passionate about creating innovative solutions to real-world problems.",
+  openGraph: {
+    images: ['/images/logo/removed_bg_logo.png'],
+  },
   // other metadata
 };
 

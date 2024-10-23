@@ -1,43 +1,46 @@
-# Startup - Free Next.js Startup Website Template
+# 400 Solutions - Professional IT Services
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+400 Solutions is a leading IT services company specializing in custom software development, web applications, and digital transformation solutions. With our expertise in cutting-edge technologies, we help businesses streamline their operations and achieve their digital goals.
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+## About Us
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js 13 and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+Founded in 2015, 400 Solutions has grown to become a trusted partner for businesses across various industries. Our team of skilled developers, designers, and project managers work collaboratively to deliver high-quality, tailored solutions that meet our clients' unique needs.
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+## Our Services
 
-[![Startup Pro](https://cdn.nextjstemplates.com/Startup-Pro---Next.js-Starter-Template-for-SaaS-Startups-282e26f7-f543-4ae4-a777-ac306c08cce8.png)](https://nextjstemplates.com/templates/saas-starter-startup)
+- Custom Software Development
+- Web Application Development
+- Mobile App Development
+- Cloud Solutions
+- IT Consulting
+- Digital Transformation
 
-### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
+## Technology Stack
 
-### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
+We leverage the latest technologies to ensure our solutions are robust, scalable, and future-proof. Our current tech stack includes:
 
-### [📦 Download](https://nextjstemplates.com/templates/startup)
+- Frontend: React.js, Next.js (version 13.4.12)
+- Backend: Node.js, Python, Java
+- Databases: MongoDB, PostgreSQL, MySQL
+- Cloud: AWS, Azure, Google Cloud
 
-### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+## Size Compatibility
 
-### [🔌 Documentation](https://nextjstemplates.com/docs)
+Our solutions are designed to be responsive and compatible with a wide range of devices and screen sizes, including:
 
-### ⚡ Deploy Now
+- Desktop (1920x1080 and above)
+- Laptop (1366x768 to 1920x1080)
+- Tablet (768x1024 to 1024x1366)
+- Mobile (320x480 to 428x926)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
+We ensure that our applications provide an optimal user experience across all these device sizes.
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
+## Contact Us
 
+Ready to transform your business with cutting-edge technology solutions? Get in touch with us today!
 
-### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+- Email: info@400solutions.com
+- Phone: +1 (555) 400-4000
+- Website: www.400solutions.com
 
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
-
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
+Let 400 Solutions be your partner in navigating the digital landscape and achieving your business objectives.
